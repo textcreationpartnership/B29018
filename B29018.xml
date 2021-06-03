@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robin Hood and the butcher To the tune of, Robin Hood and the begger.</title>
+            <author>Robins, Thomas, fl. 1672-1685.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29018</idno><idno type="EEBO-CITATION">99848447</idno>
+  <idno type="VID">178298</idno>
+  <idno type="EEBO-PROQUEST">2240849729</idno>
+  <idno type="STC">Wing R1657D</idno>
+  <idno type="STC">ESTC S113210</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99848447e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178298)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1555:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Robin Hood and the butcher To the tune of, Robin Hood and the begger.</title>
+                  <author>Robins, Thomas, fl. 1672-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Grove on Snow Hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: T.R.</note>
+                  <note>Publication date suggested by Wing.</note>
+                  <note>Verse - "Come all you brave gallants [and] listen a while,".</note>
+                  <note>Identified on UMI microfilm as STC 20592.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:178298:1"/>
+            <head>Robin Hood and the Butcher.</head>
+            <opener>To The Tune of, Robin Hood and the Begger.</opener>
+            <div type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>COme all you brave gallants &amp; listen a while,</l>
+                  <l>
+                     <hi>with hey down down an a down,</hi>
+                  </l>
+                  <l>that are in the Bowers within,</l>
+                  <l>For of <hi>Robin Hood</hi> that Archer good,</l>
+                  <l>a song I intend for to sing.</l>
+               </lg>
+               <lg>
+                  <l>Vpon a time it chanced so,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>hold <hi>Robin</hi> in Forrest did spy,</l>
+                  <l>A jolly Butcher, with a bonny fine Mare,</l>
+                  <l>with his flesh to the Market did hye.</l>
+               </lg>
+               <lg>
+                  <l>Good morrow good fellow, said jolly <hi>Robin,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>what food hast, tell unto me,</l>
+                  <l>And thy Trade to me tell, and where thou dost dwell,</l>
+                  <l>for I like well thy company.</l>
+               </lg>
+               <lg>
+                  <l>The Butcher he answered jolly <hi>Robin,</hi>
+                  </l>
+                  <l>
+                     <hi>with a hey, &amp;<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </l>
+                  <l>no matter where I dwell,</l>
+                  <l>For a Butcher I am, and to <hi>Notingham,</hi>
+                  </l>
+                  <l>I am going my flesh to sell.</l>
+               </lg>
+               <lg>
+                  <l>What is price of thy flesh said jolly <hi>Robin?</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>come tell it soon unto me,</l>
+                  <l>And the price of thy Mare, be she never so dear,</l>
+                  <l>for a Butcher fain would I be.</l>
+               </lg>
+               <lg>
+                  <l>The price of my flesh the Butcher repli'd,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>I soon will tell unto thée,</l>
+                  <l>With my bonny Mate, and they are not dear,</l>
+                  <l>four mark thou must give unto me,</l>
+               </lg>
+               <lg>
+                  <l>Four mark I will give thée, saith jolly <hi>Robin,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>four mark it shall be thy fée,</l>
+                  <l>Thy mony come count, and let me mount,</l>
+                  <l>for a Butcher I fain would be.</l>
+               </lg>
+               <lg>
+                  <l>Now <hi>Robin</hi> he is to <hi>Notingham</hi> gone,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>his Butchers trade for to begin</l>
+                  <l>With good intent to the Sheriff he went,</l>
+                  <l>and there he took up his Inn.</l>
+               </lg>
+               <lg>
+                  <l>When other Butchers they opened their meat,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>hold <hi>Robin</hi> he then begun</l>
+                  <l>But how for to sell he knew not well,</l>
+                  <l>for a Butcher he was but young.</l>
+               </lg>
+               <lg>
+                  <l>When other Butchers no meat could sell,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>
+                     <hi>Robin</hi> got both gold and fée,</l>
+                  <l>For he told more meat for one peny</l>
+                  <l>than others could do for thrée.</l>
+               </lg>
+               <lg>
+                  <l>But when he sold his meat so fast,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>no Butcher by him could thrive,</l>
+                  <l>For he sold more meat for one peny,</l>
+                  <l>than others could do for five.</l>
+               </lg>
+               <lg>
+                  <l>Which made the Butchers of <hi>Notingham,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>to study as they did stand,</l>
+                  <l>Saying surely he was some Prodigal,</l>
+                  <l>that hath sold his Fathers Land.</l>
+               </lg>
+               <lg>
+                  <l>The Butchers they stepped to jolly <hi>Robin,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>acquainted with him for to be,</l>
+                  <l>Come brother one said, we be all of one Trade,</l>
+                  <l>come will you go dine with me.</l>
+               </lg>
+               <lg>
+                  <l>Accurst of his heart, said jolly <hi>Robin,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>that a Butcher doth deny,</l>
+                  <l>
+                     <hi>I</hi> will go with you my brethren true,</l>
+                  <l>and as fast as I can hie.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:178298:1"/>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>BVt when to the Sheriffs house they came,</l>
+                  <l>
+                     <hi>with hey down, down, an a down</hi>
+                  </l>
+                  <l>to dinner they hied apace,</l>
+                  <l>And <hi>Robin</hi> he, the man must be,</l>
+                  <l>before them all to say Grace.</l>
+               </lg>
+               <lg>
+                  <l>Pray God bless us all said jolly <hi>Robin,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>and our meat within this place,</l>
+                  <l>A Cup of Sack so good, will nourish our blood,</l>
+                  <l>and so I do end my Grace.</l>
+               </lg>
+               <lg>
+                  <l>Come fill us more wine, said jolly <hi>Robin,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>let us merry be while we do stay,</l>
+                  <l>For wine and good chéer, be it never so dear,</l>
+                  <l>I bow I the reckning will pay.</l>
+               </lg>
+               <lg>
+                  <l>Come brother be merry said jolly <hi>Robin,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>let us drink and never give ore,</l>
+                  <l>For the shot <hi>I</hi> will pay, ere <hi>I</hi> go my way,</l>
+                  <l>if it cost me five pounds and more,</l>
+               </lg>
+               <lg>
+                  <l>This is a mad blade, the Butchers then said,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>saies the Sheriff he is some Prodigal,</l>
+                  <l>That some Land has sold for silver and gold,</l>
+                  <l>and now he doth mean to spend all.</l>
+               </lg>
+               <lg>
+                  <l>Hast thou any horn beasts, the Sheriff repli'd,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>good fellow to sell unto me?</l>
+                  <l>Yes that I have good Master Sheriff,</l>
+                  <l>
+                     <hi>I</hi> have hundreds two or thrée.</l>
+               </lg>
+               <lg>
+                  <l>And a hundred aker of good frée Land</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>if you please it to sée,</l>
+                  <l>And Ile make you as good assurance of it,</l>
+                  <l>as ever my Father made me.</l>
+               </lg>
+               <lg>
+                  <l>The Sheriff he saddled a good palfrey</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>with thrée hundred pound in gold,</l>
+                  <l>And away he went with hold <hi>Robin Hood,</hi>
+                  </l>
+                  <l>his horned beasts to behold.</l>
+               </lg>
+               <lg>
+                  <l>Away then the Sheriff and <hi>Robin</hi> did ride,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>to the Forrest of merry <hi>Sherwood.</hi>
+                  </l>
+                  <l>Then the Sheriff did say, God bless us this day</l>
+                  <l>from a man they call <hi>Robin Hood.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But when that a little further they came,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>hold <hi>Robin</hi> he chanced to spy</l>
+                  <l>A hundred head of good red Déer</l>
+                  <l>come tripping the Sheriff full nigh.</l>
+               </lg>
+               <lg>
+                  <l>How like you my horn'd beasts good Master Sheriff,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>they be fat and fair for to sée</l>
+                  <l>
+                     <hi>I</hi> tell thée good fellow, I would <hi>I</hi> were gone,</l>
+                  <l>for <hi>I</hi> like not thy company.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Robin</hi> be set his horn to his mouth,</l>
+                  <l>
+                     <hi>with hey &amp;c.</hi>
+                  </l>
+                  <l>and blew but blasts thrée,</l>
+                  <l>Then quickly anon there came little <hi>John,</hi>
+                  </l>
+                  <l>and all his company.</l>
+               </lg>
+               <lg>
+                  <l>What is your will, then said little <hi>John,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>good Master come tell it to me,</l>
+                  <l>I have brought hither the Sheriff of <hi>Notingham</hi>
+                  </l>
+                  <l>this day to dine with thée.</l>
+               </lg>
+               <lg>
+                  <l>He is welcome to me then said little <hi>John,</hi>
+                  </l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>
+                     <hi>I</hi> hope he will honestly pay,</l>
+                  <l>
+                     <hi>I</hi> know he has gold, if it be but well told,</l>
+                  <l>will serve us to drink a whole day,</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Robin</hi> took his m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntle from his back,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>and laid it upon the ground,</l>
+                  <l>And out of the Sheriffs Portmantle</l>
+                  <l>he told thrée hundred pound.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Robin</hi> he brought him thorow the wood,</l>
+                  <l>
+                     <hi>with hey, &amp;c.</hi>
+                  </l>
+                  <l>and set h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m on his dapple gray,</l>
+                  <l>O have me commended to your wife at home,</l>
+                  <l>so <hi>Robin</hi> went laughing away.</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>T. R</signed>
+            </closer>
+         </div>
+         <trailer>Finis.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for F. Grove on Snow Hill. Entered according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
